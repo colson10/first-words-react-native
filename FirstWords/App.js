@@ -33,7 +33,8 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#F5FCFF',
+    // backgroundColor: '#F5FCFF',
+    backgroundColor: '#C390D4',
   },
   welcome: {
     fontSize: 20,
